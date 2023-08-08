@@ -1,2 +1,2 @@
-http://921l.github.io/blog/2021/11/03/hello-world/
-http://921l.github.io/blog
+http://921l.github.io/2021/11/03/hello-world/
+http://921l.github.io/
