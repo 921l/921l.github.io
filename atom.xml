@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Choose a title</title>
+  <title>921l</title>
   
-  <subtitle>Any subtitle you like</subtitle>
+  
   <link href="http://921l.github.io/atom.xml" rel="self"/>
   
   <link href="http://921l.github.io/"/>
@@ -10,7 +10,7 @@
   <id>http://921l.github.io/</id>
   
   <author>
-    <name>Your name</name>
+    <name>921l</name>
     
   </author>
   

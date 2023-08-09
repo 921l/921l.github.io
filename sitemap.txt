@@ -1,2 +1,7 @@
+http://921l.github.io/about/index.html
+http://921l.github.io/photos/index.html
+http://921l.github.io/friends/index.html
+http://921l.github.io/tags/index.html
+http://921l.github.io/categories/index.html
 http://921l.github.io/2021/11/03/hello-world/
 http://921l.github.io/
